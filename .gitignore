@@ -1,0 +1,9 @@
+# jupyterlab
+.ipynb_checkpoints
+
+# IDE
+.idea
+.vscode
+
+# datasets
+datasets
